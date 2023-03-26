@@ -162,7 +162,7 @@ function App() {
             Clothing (3)
           </button>
           <br></br>
-          <span style={{ color: "white", fontWeight: "bold" }}>
+          <span style={{ color: "rgb(6, 113, 86)", fontWeight: "bold" }}>
             Tired of choosing?
           </span>
           <button id="randomize-button" onClick={() => randomize()}>
